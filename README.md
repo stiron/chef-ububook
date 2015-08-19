@@ -8,6 +8,7 @@ It is based on my good friend's [DebTop](https://github.com/gregf/chef-debtop) p
 * It installs the followings
   * Packages (misc packages for my distro)
   * VirtualBox (5.x series)
+  * Perl5 (PerlBrew Perl5 installation)
 
 # How to use it?
 
