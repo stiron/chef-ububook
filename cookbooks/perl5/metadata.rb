@@ -1,0 +1,7 @@
+name             'perl5'
+maintainer       'Tamas Molnar'
+maintainer_email 'stiron@gmail.com'
+license          'apache2'
+description      'Installs/Configures misc packages'
+long_description 'Installs/Configures misc packages'
+version          '0.0.1'
