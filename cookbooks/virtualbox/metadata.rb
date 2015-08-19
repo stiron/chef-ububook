@@ -1,0 +1,7 @@
+name             'virtualbox'
+maintainer       'Tamas Molnar'
+maintainer_email 'stiron@gmail.com'
+license          'apache2'
+description      'Installs/Configures virtualbox'
+long_description 'Installs/Configures virtualbox'
+version          '0.0.1'
