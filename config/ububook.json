@@ -1,6 +1,7 @@
 {
   "run_list": [
     "recipe[packages]",
-    "recipe[virtualbox]"
+    "recipe[virtualbox]",
+    "recipe[perl5]"
   ]
 }
