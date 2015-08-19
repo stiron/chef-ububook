@@ -6,7 +6,8 @@ It is based on my good friend's [DebTop](https://github.com/gregf/chef-debtop) p
 # What does it install?
 
 * It installs the followings
-  * VirtualBox
+  * Packages (misc packages for my distro)
+  * VirtualBox (5.x series)
 
 # How to use it?
 
