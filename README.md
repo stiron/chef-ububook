@@ -18,4 +18,4 @@ After which all you have to do is run `bootstrap.sh`. The bootstrap script insta
 chef-client, it will clone this repository and run Chef Solo.
 
 If you make changes to `config/ububook.json` you'll want to fork this repository 
-and edit bootstrap.sh to clone your repository.
+and edit `bootstrap.sh` to clone your repository.
