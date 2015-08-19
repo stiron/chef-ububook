@@ -15,8 +15,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-install_versions = node['perl5']['install_versions']
-
 execute 'install perlbrew' do
   command 'curl -kL http://install.perlbrew.pl | bash'
 end
