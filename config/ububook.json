@@ -2,6 +2,6 @@
   "run_list": [
     "recipe[packages]",
     "recipe[virtualbox]",
-    "recipe[perl5]"
+    "recipe[vagrant]"
   ]
 }
