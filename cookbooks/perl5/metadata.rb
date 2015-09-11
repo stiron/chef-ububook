@@ -1,7 +1,0 @@
-name             'perl5'
-maintainer       'Tamas Molnar'
-maintainer_email 'stiron@gmail.com'
-license          'apache2'
-description      'Installs/Configures perlbrew'
-long_description 'Installs/Configures perlbrew'
-version          '0.0.1'
